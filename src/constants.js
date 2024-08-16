@@ -6,7 +6,7 @@ import Resume from "./assets/icons/resume.png";
 import { FaBriefcase, FaGraduationCap } from "react-icons/fa";
 
 export const constants = {
-  my_link: "https://anjaliroy.vercel.app",
+  my_link: "https://swapnil-jha.vercel.app",
   links: [
     { index: 1, href: "about" },
     { index: 2, href: "projects" },
@@ -14,33 +14,33 @@ export const constants = {
     { index: 4, href: "blog" },
   ],
   name: {
-    firstName: "anjali",
-    lastName: "roy",
+    firstName: "swapnil",
+    lastName: "jha",
   },
   contactArray: [
     {
       key: "Email",
       imgPath: Mail,
       imgAlt: "email-icon",
-      href: "mailto:anjaliroy3101@gmail.com",
+      href: "mailto:swapnil.jh1103@gmail.com",
     },
     {
       key: "GitHub",
       imgPath: GitHub,
       imgAlt: "github-icon",
-      href: "https://github.com/theCosmicNoise",
+      href: "https://github.com/Jha1103",
     },
     {
       key: "LinkedIn",
       imgPath: LinkedIn,
       imgAlt: "linkedin-icon",
-      href: "https://www.linkedin.com/in/royanjali-bpgc",
+      href: "https://www.linkedin.com",
     },
     {
       key: "Resume",
       imgPath: Resume,
       imgAlt: "resume-icon",
-      href: "https://drive.google.com/file/d/1PoajmpvwyD_gRFM5jAw3bdYQpcoNAdv8/view?usp=sharing",
+      href: "https://drive.google.com",
     },
   ],
 
